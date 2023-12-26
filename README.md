@@ -1,6 +1,6 @@
 # GoalHabits
 
-The aim is to develop an application that helps you track goals by breaking them down into small steps and help you monitor them to enhance skills and achievements. Screens proposal can be found in [this](docs/Screens.md) page
+The aim is to develop an application that helps you track goals by breaking them down into small steps and help you monitor them to enhance skills and achievements. Screens proposal can be found in [this](Screens.md) page
 
 ## Functionalities
 ##### Goal Setting:
