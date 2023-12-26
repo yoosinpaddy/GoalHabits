@@ -33,7 +33,7 @@ If you want to contribute to this project, you can follow these steps:
 - Fork the repository and clone it to your local machine.
 - Create a new branch with a descriptive name for your changes.
 - Make your changes and commit them with a clear and concise message.
-- Push your branch to your forked repository and create a pull request to the main branch.
+- Push your branch to your forked repository and create a pull request to the **dev** branch.
 - Wait for a code review and feedback from the project owner or maintainer.
 - If your pull request is accepted, merge it and delete your branch.
 
